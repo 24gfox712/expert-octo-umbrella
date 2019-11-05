@@ -45,4 +45,4 @@ msg.reply('Pong!');
 
 });
 
-client.login('NjQxMDM0MTIwMzEwNTU0NjQ1.XcFqTw.HMFUBoFRumjssgUBpF9GqVZHcOo');
+client.login(process.env.BOT_TOKEN);
